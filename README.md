@@ -5,6 +5,8 @@ Original Project: Lax1Dude
 <br>
 Original Server Fork: EcoliEater87
 <br>
+Froked by GRacinplay1209
+<br>
 ## Setup Guide
 Welcome to the EaglercraftX server project! Here is how you can setup your very own eaglercraft server:
 <br>
